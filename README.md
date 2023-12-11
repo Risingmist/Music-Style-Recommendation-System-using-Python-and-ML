@@ -14,7 +14,7 @@ The primary goal of this project is to recommend suitable music styles consideri
 
 ## Implementation Details
 
-The project utilizes the following components and techniques:
+The project, as my initial venture into machine learning, utilizes the following components and techniques:
 
 - Decision Tree Algorithm: Implements the Decision Tree algorithm from the scikit-learn library to create a model for music style recommendation.
 - Data Preprocessing: Handles data cleaning and preprocessing to prepare the dataset for model training.
